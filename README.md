@@ -1,13 +1,12 @@
 # To-Do-Redux
 
-## To-Do List App with Redux (Techy Dark Theme)
+## To-Do List App with Redux
 
-This is a React application for managing to-do items using Redux for state management. It features a dark and techy theme for a visually appealing experience.
+This is a React application for managing to-do items using Redux for state management.
 
 ### Features
 
 * Add new to-do items.
-* Mark existing to-do items as completed. (Not implemented in this basic version)
 * Remove to-do items.
 
 ### Installation
